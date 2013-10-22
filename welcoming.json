@@ -1,0 +1,510 @@
+{
+debug_info: [ ],
+html_attributions: [ ],
+next_page_token: "CmRSAAAAXtsVfPaa7_OmYmBrxdbtrIUX7Jl0_zlawrE_yYOloEWSJekvxADJHaqmPYhYbZ4Q4l4lbL1PEy-obAQlQlDRPJXvc3Eal5m2OJfXOPh_dKGVa3YPjXek7O_VymabIP_wEhDyZLKmahB63D_qlvcOrHknGhSVXUIY6Q_P767PiVnC2RWJww5ePQ",
+results: [
+{
+geometry: {
+location: {
+lat: 40.762152,
+lng: -73.972677
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "42b2698d3a5e1c2b79e2aef617212354dfeb0f66",
+name: "Hospitality Group",
+reference: "CoQBcwAAAGz0gM3z7u6vBsnNDTTysXC1KJNtNNgxzOUxwzdDddV2pIVir3jmrK6lT6QVPQ7ohTS7Q1XTpM_Eh-jeUuFUd-rrUcGnwZ-TJ1CvDoky_Ez3FcHpQvwdRlsTbLMNSXcYi8f5XOcuhov_zebdkul_tFLCd_Gcf0zTJk69gp8Zl7-hEhBZfNy0vHxVgbG9DOC2wd3aGhTZSHC7h_UliLWpPKgzI838UoVRoA",
+types: [
+"establishment"
+],
+vicinity: "590 Madison Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.675354,
+lng: -73.974721
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+id: "fbdf5a0b3700609e701ae51d7ed19b03371bb43d",
+name: "Frajean",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 615,
+html_attributions: [ ],
+photo_reference: "CoQBfAAAAFRAYvL24U374PprJ5uZCuxXebAPXu-YrjMQcXiytzNmSip9rucWNjerf4-uzssTs-Q21ZkdkTpQm8rX_ibYzjlaESFm4AMLUOZX1ZQSwByPkp1wI5ehTyd7aYBNuG5BqIdb2iWD7a9Tm7m5cqq_TWEtxyYPHogNw7bJvcWX-vtZEhDnGzRzMGpN6bCmLaHao2wNGhTFOP78xOSifVjCa3gtC-hgkgMQ-g",
+width: 1062
+}
+],
+rating: 4.3,
+reference: "CnRpAAAAPtqASRFsfDhUljJkZ6RDSbNy5UGQ-rZFvoJzH1hQ3XI7XDYrIe_TpDeGLvFulIkVIvxbQf77xDDLbir5x1TftFb8yluifJYahBLhEzcYeNVFGlZvBs_7xSb17dBopnVzpTjJk12oTST1U-h2CbSjVhIQVEgfEI9gj1mnWp7QljzXshoUjmqrM8SVHzwoPluChr6LU8qAK_I",
+types: [
+"beauty_salon",
+"spa",
+"hair_care",
+"establishment"
+],
+vicinity: "69 7th Avenue, Brooklyn"
+},
+{
+geometry: {
+location: {
+lat: 40.694305,
+lng: -73.992952
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "fac66535ced0c0292f6ae30652a9be54da3e9deb",
+name: "Yoga People",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 650,
+html_attributions: [ ],
+photo_reference: "CnRuAAAAqeegldD4Xx1FRgU30iAvCMP3rF_5Bzr2GAJgQ_4EeFj6iQx1en3hk3Te7R2QN5tgMqbz6gtHMrCHa_qsnmfvZCTOo8_ppSRs5RVYC4jEtOfkwdnRMwB8nBfRFihlpv0gse-unzVGo5Fg-dFzNEzarxIQV6af4RmH0GtNvmxYYvgcDhoU4ZbtPLjj8-yd32XDLhAVEpVLORs",
+width: 432
+}
+],
+reference: "CnRsAAAAfGFcT-umAbGWW52KewO2zd5vgLmqckYqwQUOG5t-q8HyrRR6zrCHZVdAemlFWEqywzO2lX7K4l2SUD6W_F2wuNSW9fbmIIDq8UnvehQcLjYPl8bcU9YsP1Z762RyeywF2q3Goz-3OO8XeQ31wB4L8RIQBtRT2Y3K-ZXuFerFLb1z6xoUmu-98DSHmyFJYxO1HwVzk6SHbs8",
+types: [
+"establishment"
+],
+vicinity: "160 Montague Street, Brooklyn"
+},
+{
+geometry: {
+location: {
+lat: 40.778548,
+lng: -73.951819
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "2944a932d6d462ae18a7d074eec84ac90f0ad882",
+name: "Sarah Ritchie Wedding Officiant",
+photos: [
+{
+height: 2048,
+html_attributions: [ ],
+photo_reference: "CpQBhAAAALDa3b4oqYRDu80pQaH1u6YtmUP12vkBSaNu86ljawCe0FABREJGPOdEPsVcn0XM9MVcAbDth8KHxU7HH_mLefi_lzw3nQkqaIQ5oIGKsVjRvSfQ6Itw7OcDlwEC9mPgV38GW4QwfAD1N4s4AfSvR4HJXANLIE6B8h2y9SBvApA8g25uqRJVnBcmMtJI0fgU2xIQw4V4WnuYEhemdi1slei_UxoU9oPmDDuIiAk3qcCSoRsQlvjBJbM",
+width: 1536
+}
+],
+reference: "CpQBgQAAACZlBJJ6sfrC5Tkpo_Bx54PQPWLMeL3DExSYBQFDu7C_SUXSKC1lL-pneioS6EdjoUd_qRho6HBQ0IMqbAcPAUumMrEaJ-NjueCK5oRtjiE1N1LcF70FeHop028x7-CA7applpLtDEaHUboN10bu7VnJA-zKIxHam2Rk64MYUmYYELsVxocOHL90DXJFsKrCGBIQD4evS6o1sbcVcwsbdAo6mRoURAlhnJrUoilEoxu5U5m5q0aa1Ao",
+types: [
+"establishment"
+],
+vicinity: "250 East 87th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.7425,
+lng: -73.984482
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+id: "10ba00e5f85d5d662ddcbb16bff108e5380beec7",
+name: "Hospitality Express Inc",
+reference: "CoQBeQAAAFZO_9wElF4-oZ93OszhM62jvRVrnHb92d7wGFzhMJUJpsVo67j7ZWXv7wf_jpRtWFO8N65pL2vOBxKTYtIbMo2JO2PV3Px5Oh7t2zsho7aWGgNZdqh_1L5oCnvvszP2ZGpQTpFMH1zJLAOo7dDcC9zqyIFpHE8Bt-m6eGCTEe34EhAM9bh3_OvL9K3V7o3BUkTYGhTVi9030QtPywO0ZSGL-NL7kHW3wQ",
+types: [
+"moving_company",
+"home_goods_store",
+"store",
+"establishment"
+],
+vicinity: "381 Park Avenue South, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.7425,
+lng: -73.984482
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "ad9688d5484b89b94e27d8e08846171891b8ff27",
+name: "National Scientific Marketing",
+reference: "CoQBfgAAAASM7zEnASFBfBfbrLRZ4wYJ-1Z7HSjb-7RsTpQeVJKQZ8LFdOeSaWoVHQ1WEpvVJ67PisONiAWHtzZjZtuYZFBcxVwg03EV38P4yx3D0K_4iASHDr3w3nLWqJXNtPJVlhq9-I6bqSIFhAbIG8zHg6ek4OMB72XIDopeGYfhz40gEhCO5Wgh_UH0YnyAPN3z77tmGhTE2gaRdUMc5-C4_VxBAPZBL51QYQ",
+types: [
+"establishment"
+],
+vicinity: "381 Park Avenue South, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.795222,
+lng: -73.935961
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "9d06e4b9319bbae668e45da6b9906e223a713344",
+name: "Thank You & Good Luck Corporation",
+reference: "CpQBggAAAO5-KwrNcscBdVZAKWYQtNk6eJuPawdP020sqkbUB3HNSKaopLbkfN6uMRkRAKcmXdbMc9vZYQP3R3NPCL9HxplAIok6xzaT2mEMuXoaiNNtoZE6CuOnQvU3hOkr9JZNLtKDDsa4UIi1_8YZKoWpNR1Ls7zJTygsypzrH_SkedptC9D_RKtX4Cy9h-hx__OMXBIQZQySoMKjBbx_8vgZREJNAxoUQnVQC3F9uje6Qzk5hcRwhXkF3hU",
+types: [
+"laundry",
+"establishment"
+],
+vicinity: "2236 1st Ave, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.743378,
+lng: -73.991632
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "5b4f54b9637077e426c76c48fba49124df212fb3",
+name: "Studio Anya",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 617,
+html_attributions: [ ],
+photo_reference: "CnRoAAAAKsPBFVfhY8Zq8elzcEkzsLDvLj3QQTzjyJI6vNERVwEtxlMaDsrv4jWLvsEQxQ-yT-cawD6oaCMjBhz96vxpw83aGh3_0BJ_nhj4jhanIaBbDtJ3kCK2B4L9p-UI4LKKV4eKJm79bZeVrAAwnuuHaBIQlSQ1ZoYstuudzQlGpnmKYhoU23FlFtossSGWJHt4LAPhjfPYk7s",
+width: 618
+}
+],
+rating: 4.9,
+reference: "CnRtAAAAyQvnX5tTDnarqLZjIE5_nQlJZTNkvs6JzZ30exW0PEmmwk2q5jWjjufqtHMQEa2DM-XiLV_x4RL7H7CMKaAIu_bLzmtCKua7LEavnAP8CfLln_i4YMW9sFwK5RAWaqPb5rXvG9-aK2D3HOvPoM9snBIQfhvvHiLA3KECYR6lnPiQnBoUV2iXE0U9Gj79YCq0YvEKNAKQtK4",
+types: [
+"health",
+"establishment"
+],
+vicinity: "49 West 24th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.727677,
+lng: -73.987968
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+id: "db95d26807e741dcacbf2c92d8108d3ecc675e32",
+name: "Middle Collegiate Church",
+photos: [
+{
+height: 648,
+html_attributions: [
+"<a href="https://plus.google.com/111879893434728591785">Walkerfourteen NYC</a>"
+],
+photo_reference: "CnRoAAAAH0EEz3_S9KQZQuIweVMNWQAZLl25e8sG6weoKlCVKBlqx3yOdi-P5VK4XH9YOSdlZRTg-4n_KNXOyy4lrJIwqv-HGvSBLUUByqPIcC2kXkxHkupV0XKMlx1jUdqQmYMWr7f7rfXywyDheahAztMbuBIQW4mHN83gTUkqxhf6Wi8dhxoUpDSHbOC9P9KnW1Szg8czvclxMyk",
+width: 1152
+}
+],
+reference: "CoQBeQAAAL6xI9l712JcmRw-otEMWmhxR7v_QSysNibo561dxe1pb1r96njAMKG3xqO5wh0AJeBxalFTCZci5bo_CMDe4c5dLh6A6dHK3PLExTNlunqm6OmCTpple7g1crHkY_CNqE6QSCJoueL2jFLpKxTjru4gU7orRNp8ltIIDThpDqCqEhC6_6ob884FMcYuGeXrrpYdGhQUHPDN1Cy_4moKEXoTOqruNnfV3w",
+types: [
+"church",
+"place_of_worship",
+"establishment"
+],
+vicinity: "112 Second Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.660889,
+lng: -73.983449
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "74613e02c16f061eca0b6909597c6a0daa5e1c72",
+name: "Jaya Yoga Center",
+photos: [
+{
+height: 576,
+html_attributions: [ ],
+photo_reference: "CoQBdQAAANPM0_15kx-EfYe9RA5TcQaB_1gTPzdgPWqHC17iG-Cw27AGwTapE5rJEtROUTXCYn0PIgXpn_JObAE3mlHKaB-WPUImAN4bQgDlmERkirmG2n69XXo2oKpB1gGDxwukyuXxRdS8Lgjxa2JDuOnKl8PBUyTuS0-ohR7LYFOCzbWAEhAd3sacS52C89iS15Efj1i9GhRsrCoa_GmOezQre0SEyE-CA1-KHA",
+width: 864
+}
+],
+reference: "CoQBcQAAAKoy33KA50B1XV41fvUpslPyrI3kEKRQywJfB6AluTwBwg0q-t6L1iQz9Jdzbs5NsctNlon0FWv_LEUWtEM0KFPlMdINy5fnSELUDA49a1ZAYCtsxJ15ot2_lsNza3yX2iT_gZ6K5HTCYueSaYH222sFbHFNhg5spJvlyIOusPieEhC3d0k0h7VqQ5ySVAzi7aoOGhSweEtPNOxINQnfXvHmS1RoqW8l8g",
+types: [
+"establishment"
+],
+vicinity: "1626 8th Avenue, Brooklyn"
+},
+{
+geometry: {
+location: {
+lat: 40.782484,
+lng: -73.975227
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+id: "fa1816d3158e6ec5c975743477c0ad1ceeaf1990",
+name: "Berkley Girl",
+photos: [
+{
+height: 853,
+html_attributions: [ ],
+photo_reference: "CnRsAAAAimJzXKwuM0RkyAyGyjY3ONX_Au7m5rzQdnKlFoY5cixUBVEFbWxQjFXXYQF9TUorEU2XebmsmuaSgYAPAi5dt76naAAl8bjd7iZP2x_SauTVPpzSJZyBzWNFyL426Mc5cuNEH6FlBaeXnshDbHJS0BIQtuHX0_pKDzU4ZACyulivyBoUJnwu4vmjliXdte9Ql1YwRd8wGws",
+width: 1280
+}
+],
+price_level: 3,
+rating: 4.3,
+reference: "CnRuAAAAPjbx-j-H6WICopKbNUXeSDdIFeWMLDZUTvNLUMi2q3Y8Q5gpZa3pa1uD7MNqnEz57Ng7brfonpSRJaWAMXqutfoHy26i-8PW3foGdb2reis1IH0LqOV87AQFUpmgrEsqXzvpLqFpgJQs7e54GDgzyBIQbsWyYFbrWKs7lzNq5SB4_xoUWsXB93gP060E5LxfezfUitAe9nM",
+types: [
+"clothing_store",
+"store",
+"establishment"
+],
+vicinity: "410 Columbus Avenue, Manhattan"
+},
+{
+geometry: {
+location: {
+lat: 40.781849,
+lng: -73.981515
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "3ab085f4d67d455c0bbfab63342d0dc517afb3f8",
+name: "Manhattan Cat Specialists",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 321,
+html_attributions: [ ],
+photo_reference: "CoQBfgAAAGlJy07mEQJx_OEO8qevkGbW9RCMOUU-T0rkAjqgkJIc6tmnPUAdlyYH7eOy3zFif_U_QhxlA7hqOvPVk31HFhibYwQhEEuyquj-8GxcnL5nRsnoGqfCpAz_I9XoPPtxtVoLhchToux0plbBdzpOYf54L5fuvB6aDWpUz05NRXHzEhDJBjsxB_jwI3OXp93MyVeYGhTcgz7UvqaRxu0utlrk4OzjO9E4vQ",
+width: 292
+}
+],
+rating: 4.8,
+reference: "CoQBewAAAC0F-BsJDkisMVosvBAFf6w5zbQIJQWk-ZD2kplG2TKjT05kCnN1eE7-kUkZCtYsjEVCGpCUs2OSf2ep6TIAypmwJA-x4Z4kuI_zq1_hrrCV_HvZlEghtCTZ6jbEVNpcR_Wu49Yqbck8Hz4jN5JLZ6Vo64BHaZCbBiEwAvgKmhG2EhBiPJ33FH2rj6yZQk3_PDdSGhRitpQpTK5EYkTHozHas4NUmDWePw",
+types: [
+"veterinary_care",
+"establishment"
+],
+vicinity: "230 West 76th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.750834,
+lng: -73.971689
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+id: "f53906c300d50730bbe55cd916ecf8d1cb18324b",
+name: "The Episcopal Church",
+photos: [
+{
+height: 648,
+html_attributions: [
+"<a href="https://plus.google.com/114349666063242435652">Walkerseventeen NYC</a>"
+],
+photo_reference: "CnRoAAAA23e3ru2Jgu6WdOZC30MbDKw9ar2qIjJOkH4Bhcf63akWctzHi1xH_DXXZy5zN4JM4JtDue4OkS-0BYH1_3NlLfFzt7_eI0vUP7sctTHm7IwMoUqjGHlliUhf8I4VuqfLlcK0oAUlA9-I691ORIZ7sRIQR_JbKuRufzgaKnBA2mt1hhoUrRBppslJy95WzCpVBWvvOgiuCoo",
+width: 1152
+}
+],
+reference: "CoQBdQAAAHu1a9jc0PypvqL7p77l3lzWvDKgzvYmBDK6e6V2j8uXGYQrQk9-sY0pJ5Uh1MNfFiZpf65fdy619d2hIGtwj8-C0zPmRjiTgoxqz-qbDld8Mozmu0JrfWScvKbEXCGoRfun5R_4PtdI_hKW_w3BfuA07UrBhY2pZyHvatg9BP_sEhBRvXOowJHOZwSfrlkqTOZ3GhS9pOxvq5r_q5hrUTbWCn0UgDa89A",
+types: [
+"church",
+"place_of_worship",
+"establishment"
+],
+vicinity: "815 2nd Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.776281,
+lng: -73.953105
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+id: "50f58b42f715c0e0c0289bac99e8f127602a9ac2",
+name: "Caledonia Scottish Pub",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 1067,
+html_attributions: [ ],
+photo_reference: "CoQBewAAAMhsqYdYRnVUE1LIWhl5wfMSz5bSmewPr8BQq3ybNapMcwPc16KHNWvAgBxKT77GLy_OAesA0_3GNuoPu49mij1kIhsfKjbaYoBVn9tDvg9aJ2JNLxB1EgV8lpprCfLKnutpMy2abbhhRPnDED7IJCsD168g86Z_uRr8YhitJJKtEhADDgCACyE4GGwsZvUgt5sPGhQjL16uvA6wonCsRIz00EG4HYx1vQ",
+width: 1600
+}
+],
+rating: 4.4,
+reference: "CoQBdwAAAD4SpZDIq9dCTQh5jhbB3QU33z3OTF1A7lapultrB2hy7mqlHDYIG4xLhBj-8PJW15xotCQ9Dliqm1jpKf-sjyyoauTfKkIoh6U_m_AQopN5H8EgfzyQ8WqQXDvnManmOLTa8-NXVLT3FsOBfcU6z6amj-wY_uXB8rujxBEMzRmVEhBBj6vqKBfiOclXkKfyTYSZGhSfa_LdqkwJfWyGRR8E4Yq-LE0IZw",
+types: [
+"bar",
+"establishment"
+],
+vicinity: "1609 2nd Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.732705,
+lng: -73.988739
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "f1b47ec3c571cd987470904e3576a1e24c69fdab",
+name: "Peridance Center",
+opening_hours: {
+open_now: true
+},
+rating: 4.2,
+reference: "CoQBcgAAABZ9iQTrAK7XhSQmwf8sQ5uVLW-AdjuKKfEdGnj2RfW1ENhlWK3wqJjqwAXSut9d3H0N_HWjMa_soZCtoqUenOt2l7XF9Li-1zHz8sFijfWlTyCjB_eLXGL9BDCbjNI7plV6O5ANcSP0SotjsmDKyvFhvpiz6S-aSyn4ADRc-o9AEhC1kKlC96YA22MY_UprsZioGhTpDWa6p6cdRwfl3y8t9m7YRxiB-A",
+types: [
+"establishment"
+],
+vicinity: "126 East 13th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.754951,
+lng: -73.986857
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+id: "88348ca3c6b60baf512164fd290fe5990b9126a7",
+name: "Jean Pierre Hair Salon",
+reference: "CoQBeAAAAEPnniYgx6kIRhy0bCGGrFxsoMvx0d6BT0mriHdqMkjx0LSBsWBCopAF-OtLUBZD7eOHBVtto8CFymE86AKZZfkP5c6KiNF48GYpQNplSNekpolVWdB4hHxXjFSlq-OKXk3rmow-KsRGV88x2RQ7Md9Y_CSSgxYj29wr2MpKQVJfEhD3OBMKsGRMBpoTZHkehu_0GhR33jN0yT-NCMkYR6z5IEaSPMCV5Q",
+types: [
+"beauty_salon",
+"hair_care",
+"establishment"
+],
+vicinity: "1441 Broadway, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.714507,
+lng: -74.007267
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+id: "fdfaae1169abfb72bc71f9c2b91b4092dbaff99b",
+name: "Chambers Street Orthodontics: Cooperman Kenneth B DDS",
+photos: [
+{
+height: 333,
+html_attributions: [ ],
+photo_reference: "CpQBgQAAAJWNxeWJ8AwUyGIQaz6xX8d6BiwWBAk8R4yWVpqqF_DXW-84XjPLcUYBGQAl40I83VGtXKOxir7H-90OcNAZSmYkuHowVFYyM-l5iCGYxSQIUqT9lhbb_pXW8mFo9Z5-Q7GAi_CDwKBGYWMB0VNKFvxjGiWHAisSrO7vreT8tK3y1fR3XUFsRVYBavG50Esn2BIQVgG1e8Rl1zxD2jjRjrOefhoUwBMhlFB6AiaqfhouAN3p5bYBXP4",
+width: 500
+}
+],
+reference: "CqQBlwAAAM9dcj2lEORtkor6891m8BIibpiCG4jQvpxBXtW-H_H1_8KAJ6SgePmDhMPIMejJTz-n0GjDHSO3zpQDmQukxjVAJ6kCG4zfgzI49-QQGDtsZYcnTivjt65loVKvvHax0LyYiJcKW60krgRAZJVYNgry3TVE7IFfVCAqXz74BfM85X6Z18iin3y6PiUz5aRaAyE0KGSTDBNnKfCfAUmNBVUSENkeMfV9nRqMfzGKPVQRHYQaFK-ZJseRcFK29DMYSORupG92uDL_",
+types: [
+"dentist",
+"doctor",
+"health",
+"establishment"
+],
+vicinity: "88 Chambers Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.734287,
+lng: -74.003214
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+id: "42dbc2ab8d5caa5c2e2bc045f0a354515b254840",
+name: "The Windsor",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 648,
+html_attributions: [
+"<a href="https://plus.google.com/115219385039889593496">Walkertwentyfour NYC</a>"
+],
+photo_reference: "CnRoAAAA4s6HLUQAQ6mhthalWM2LpixsyNIBP9m9NqNvNAJpyR7ZzlrUSI9KAtq90lLd2HsuK_WLaRGXZdHaCrjj4BabiT7-hi1ucSc255IgrvjZ9ZyJbXTmK33HCQ9sQ4V0Xsq2MvtuoH53QCxoG0_o1QYIVBIQwCQW5wL_lWNCLtmXR8JStxoU-SdR7hRgV4TptTXPHgvQIIM6Guo",
+width: 1152
+}
+],
+price_level: 2,
+rating: 3.5,
+reference: "CnRsAAAAnIK4aD9msN4MJX_y4x_WjPpkLH-2sQLVxlHxnnL1cPq3GTJ9sPW_nDp6f5fHX9iN1-_NibtIuwA0_fYibjCZhBrfw_FqPDcIDodRORN8QCHsO0Qv-m-VUxW3UNpPjsYj5ErTubWYnxRIZoSDjwqcohIQttyRZ_446r7Mil1UZ6rdxhoUApYHptr38bHyotBkk4P4tj-O-r0",
+types: [
+"bar",
+"establishment"
+],
+vicinity: "234 West 4th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.74554,
+lng: -73.986885
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+id: "7a896ba30597052bca398ebf30e67df241eb69c6",
+name: "Marble Collegiate Church",
+photos: [
+{
+height: 648,
+html_attributions: [
+"<a href="https://plus.google.com/102161026385216925123">Walkersixteen NYC</a>"
+],
+photo_reference: "CnRoAAAA7Nvw2x-cMafEbjJOTOwYnehnEEQJZsPSCiN6k5jvtKfBhaKBoW6cXS6sxt5NOwvvyF-8Jfr8haWg5kCxWOHYDryKCB1V9xAdeR-ZEVOU-btoarvJ-HGMQI_OF314DTGoFc4eI28kkw47P46-KJkXohIQK6Uwdx04QgXcxnq1nzaNQxoUSd-oo5YA66PBDqphbWi34mto1Gs",
+width: 1152
+}
+],
+rating: 4.3,
+reference: "CoQBeQAAALnQNJTucKiVWxsd72uB-CmI0QUXAM9zn8fEYCU707v_wNynji6OIQkOi5xX73e0qOpZp-mGrwYCM3s7K2eRMV4OUTmV-ATSAc_BMfnlV3E9EmmBNf5UFV7qKmx5ZaSgQXInjYc_HWfjWEgKFYGDFWP0gl3vlj5yToiIyGXCI8pVEhDHy7vNDho8PIeW9OUjRqdgGhStFaLn01_nBSlNKCK-FJHl_h-4_Q",
+types: [
+"church",
+"place_of_worship",
+"establishment"
+],
+vicinity: "1 West 29th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.78891,
+lng: -73.977378
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+id: "02ba256476e0adb347d27b712ef9f76bbbcce868",
+name: "Church of St. Paul and St. Andrew",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 816,
+html_attributions: [
+"<a href="https://plus.google.com/111817640507572082175">Elizabeth Jensen</a>"
+],
+photo_reference: "CoQBdgAAAK1041ixeFlBnNiNowjWZ_vx9oL8CjBvLSDzNkVnQVKEAQ36YGgWNMseqQ7wx7EGC_ijOdKW85JKsxNVKD4jiglfAIEYnVOaFWWi4bVhi3dJRzjeoUKSeT5biA1caM_1o1sfAkjV4VQYUuxG7vSOe4Ac8QS8rgdW3iST6MsBSpEzEhBvBMugDN9YIE5ObmpHaT-BGhTxwUJnd7LNLNYTbp7NSeh5K4thPA",
+width: 612
+}
+],
+reference: "CpQBgwAAAHy5kH2MEXSNPOeCLCB3qREeutOpt2P24NSoJSblaHl6RDD2n3ddfzXfU-VJ_Zn79ebBJU_nxPqYs9kUuEsNlv9ewJPYCXA4MmHYVbjAonuJqD8a1xVlTrO0mZzjLr1ZD3fczPFbwHEb-Jp7-8fDGtxLYQO08c_9e8jfSjnttHxDKZO2sdW7C15GN3DqV8zTvxIQtZNkNFTGZP7FxmGcV73vPhoUEkJYu0-K4l_MEcrPvPVFtkgvYMI",
+types: [
+"church",
+"place_of_worship",
+"establishment"
+],
+vicinity: "263 West 86th Street, New York"
+}
+],
+status: "OK"
+}

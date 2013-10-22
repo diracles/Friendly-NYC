@@ -1,0 +1,562 @@
+{
+debug_info: [ ],
+html_attributions: [ ],
+next_page_token: "ClRMAAAAOSfmDB7egZ539Daj2pBn7ZWhuWzxiu8vYkxQBomaEs9Xc8LAa3khjUWUsnETstSE-am-0nOlQdrcKb1HrG9fM2Qx_TpMeuLd9BEiiYQsuDESEIndvjgzdE8VJkQq4JhAIdoaFLpRKuLRYU0S-PuYZRrmgwyHn2IP",
+results: [
+{
+geometry: {
+location: {
+lat: 40.707399,
+lng: -74.010209
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+id: "b3fe6301d045106e1267fae5357e6f2aaab812f8",
+name: "Federal Hall National Memorial",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 480,
+html_attributions: [
+"<a href="https://plus.google.com/108719588316767449029">Traci Cappiello</a>"
+],
+photo_reference: "CpQBhQAAAEthY9swliMTjU0I5yl27ABgxigm6kpXno6CE9U1MkIMo-k9zzNMBToKPTwnsF92xESYMOVRMb4DWf_B04adI12NfroJW03bsu2045ViNKe7F4rOKPc7ZaUOwDZ6IUbhR5zSkAGwHWrtCIrCFCa-FBiQTznWTZi7dMvUPFudvQBaEEsg1HX1jak9SFX58jJbXBIQHCjFqMLN0EQIiFZvZU6NrRoUTrhgAXam7ouOLZxTHPsGKsP_j3g",
+width: 640
+}
+],
+rating: 4.1,
+reference: "CoQBewAAACtZ0nwwfopJaCy-Ev_Qqr38sjdXKcrbBpWG7SabA4Wg-rq9O3zK3VvRpsvxDc-rVW8essuPXDxTTn2Br8UhiJmjmMY-BDBX0fAIqkevw8_Ed2whv6K11yRTneBoDW0zKFGzHPccQ-wqsj6pvecbihaO7ZS_f3RvMExoe1-dyz8iEhAXn-XZlSNnC77hfVQLO1QkGhQvB5lF4Tw0HPsKUg81iSigVdJbuQ",
+types: [
+"museum",
+"establishment"
+],
+vicinity: "26 Wall Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.724945,
+lng: -73.992654
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+id: "119dde03dc6788ab360f093582ebc324e926a911",
+name: "Duane Park",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 428,
+html_attributions: [ ],
+photo_reference: "CnRnAAAAxbbx4w-WlKpXkVKYvvJczs3msuFxceFLYjQlb3QandHEVuBw0RfbnkIYmGVOMks2qKYswgCyEzejlkC2nsQA-aiU8B4vm-Ly3UJV1n1hVVMGkr707HPvhrYnKX3RjIzgk9036A0ME-ywE4FbxMkweRIQPIx3PBPn84fUpRKZwmsf-RoUsWrBj0MS7AijEfJGwE3s0_Wuulw",
+width: 640
+}
+],
+price_level: 3,
+rating: 4.1,
+reference: "CnRnAAAAoBqbaf_YdSuAD6ESb4gna5Lx5EKEStpHY8BYUdX5qD9zFBns2dLq_c7gn9p036YTeqgnhYq2ZfJOeGM9vU7gAwcASuz5KMt0W1sOt4X5M72AjlgyB_jqJcSz47Cc6hb8T5P4BbG-rtkzH7pSqKltjxIQtwhPLiH36dQUBtYRHpstQhoU7rA7ob8OpU0FrK34EasTO_sbHsc",
+types: [
+"bar",
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "308 Bowery, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.740164,
+lng: -73.992451
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "3e6001e2fc21a3e2a3f1355d0e279da3fd17499f",
+name: "West Side Rifle & Pistol Range",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 1280,
+html_attributions: [ ],
+photo_reference: "CpQBiwAAAH2e0jbKNzQ4Ooa-4Le4HS6V4Uq51o_yJ485BPvXdXEogyn0oRz6qt3A9UKR7taJjniSpRWwMhsd6h63wOGnuVPimQev2HX6YYfM3-SXHRmzB1pLZOTGKhyz2vK8nTuSMIwfN_lXo9wt7fOEAxWy3Vhjc0MugqYxjFS0YvcnfBJ_H9Y76khvJ0PNgFhIH37kAhIQF7ZChZ-VBKl-gKWtWHLWJRoUpmM8JMIYK20ATXnRHn4kANaENzw",
+width: 853
+}
+],
+rating: 4.5,
+reference: "CoQBfAAAAD3lUDobXUL6Zx-J7xvbb71Hm8vpWmHjg3DMiqzJaCloxX_IpEJeild3uKOuqJ57DfKfnUq0PXllbHr4kMoJUPCi1oCTqQxBhFuLn5dMwRSSh8Dn_bcDUi3hi7D8Fd5hoJ1wMJfYEqOzj7aWM2KeEnBrVoi4XvWIeBcA6GahIeagEhBVdvig-xUKy6X0PhR2eUK8GhRb5G8ExVDgGg2cFoRQdGuZ0Jjpkw",
+types: [
+"establishment"
+],
+vicinity: "20 West 20th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.748328,
+lng: -73.98556
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "bc232d2422e7068b2a2ffb314f02e3733dd47796",
+name: "Empire State Building",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1296,
+html_attributions: [
+"From a Google User"
+],
+photo_reference: "CoQBcwAAADHQbCW7LsooaEGJKRduG9C-2iwsDWQAEzNLNm_BONl_YvkPiSKczakD7DMr2g9ed687BwlTJbSqsXzY0rdss3MIJ66aVHPNTir3uUtCqflqLdSgy1n6bCwLh7uzuX9F9UiBxePEJCYgK6XqXqiZlQtkXTrY_VjTI7mk47LRc-ywEhCDjedRzGhEVOqugVmWo1ifGhSlE3QMZCrolaH25Xna_vZuKuGFxw",
+width: 728
+}
+],
+rating: 4.5,
+reference: "CoQBcwAAAJbxszH202xYsxe1OTg891xWZYJxAlgOtX-bfyNTbLxx5G1pv-CiPyHu7LE1fGSJ61d_AwidL9E6I1cjlqZresSUtvvUoxVkoD9Wr8IjwpNTFzhb4A0hTPiMHBKSyvvk-U5kHXS3Degs5wxu6iKEsVxyDw8L4rmuy7vKSvC4fSSPEhA9mY_D0xKFaIAUqWsHNo1bGhSQw6-NHCKPzlZz2mptfZzQ6TVHUg",
+types: [
+"establishment"
+],
+vicinity: "350 5th Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.723076,
+lng: -74.007899
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "c98298038ad4e58e7a52cddb9878f01edbd4f1da",
+name: "92YTribeca",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 167,
+html_attributions: [ ],
+photo_reference: "CnRrAAAA95lHlBEbK07CE0VAXcrr7QHUZVc_a_3TVJwMuo6TaDamYoL1Vt7U8Vaj6xhnJiq7uDO3JjSpQqEwQNQNbWvNV37V6ub-Hkys3LWR8U-KEY_oX1ZdJlCkjQzLSE-wPYgQFKYoE4ikTGN1CM0EObEeZBIQCN6gfWmjZ0ClPROShvGVHRoUtZi_Z3cJTgiMyDYTBwo3toWafLw",
+width: 167
+}
+],
+rating: 4,
+reference: "CnRnAAAAHJ198rcU4vtKOANtkZsOoYqRmZvyC-Wvp32iJvq0LHMeCvXK3MLtqcwtaoT6c5FwLdskTmUxV1X3l1HhcpsrnTB2Y08fwGpwdwpeFPXdbO6SIQA6busV59S76Kqdt8DFGiC0yaUaFA2RTbn9DVRfzxIQzWnlRcNZsJ_wqaFikGGMshoU16X_k4YDHRfam94iTh5sYduj_pY",
+types: [
+"establishment"
+],
+vicinity: "200 Hudson Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.771165,
+lng: -73.967228
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+id: "87e936eb75a829e0363d510c2060a6621f83f9c7",
+name: "The Frick Collection",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 483,
+html_attributions: [ ],
+photo_reference: "CoQBeQAAAD5rU3a9n6Jz2uUh3RZFAoh0ul0DU7S7J1gKSUgK09o8YZDdN90oWyP_f2r9b9SVBHcQLSSp2SeTShYa90FYMjuz_JKaFWgBP9uFEsnGhvMq6KqY-Pl90Bp99mMmymLyCS4b3ySFXwo6xkTSsIqjVcusloHjabIW7dEnqIpRgatMEhAQIcYPppfKGKuke8zjivTlGhSwDt-fxWMrZCjI7b_wBulr5XVmMg",
+width: 600
+}
+],
+rating: 4.3,
+reference: "CoQBcgAAAMm8-0mdejjwHEd-BZ-g2SDJHhdIYVN9jDHdv9tEWnekhKF2a0yqOmmzJ6zAM8UgTex5eRyF3uYLNru_0b96tHBj2u_X3dH4jipJGbkA4lX5oWtJhWAwQ7TjKe3Zz4z8VARmd5QY8Xo3hnpksko3KhZOAR9dRoUMaR1_TBlvcYvdEhC9b8ZyCZby0T446wNvwkirGhR8Is-loLX1IkyetHJALWopMaJGLg",
+types: [
+"museum",
+"establishment"
+],
+vicinity: "1 East 70th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.727323,
+lng: -73.984909
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "f57d7f55212cd52801076e306b2c5e67c19f5465",
+name: "Fun City Tattoo",
+opening_hours: {
+open_now: false
+},
+rating: 4.6,
+reference: "CnRsAAAA3J8azSHDF5Rh5NWjQagZC86edXVuV8YuqjCEr0x7twa4LBpoWwylxRe3s_t9uf71MetPyDP9lnxlhMJ8dOQV_9o399DW4-eUej-5IZ2_fMrnt68U5_mXbi-gWSuLRsO7Eq3DUBtI1MBZNYv-JxJWORIQ2I8yW1gB7ZS3qQhlKPtPAxoUMRVOPDfUsacoO3jjHjx_vVs1avs",
+types: [
+"store",
+"establishment"
+],
+vicinity: "94 Saint Marks Place, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.721437,
+lng: -73.987755
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+id: "29627c1d9a23b1a871090cb313b1aa3c0b283d54",
+name: "No Fun",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1365,
+html_attributions: [
+"<a href="https://plus.google.com/115980449847720334676">John Pierce</a>"
+],
+photo_reference: "CnRlAAAAtGoAdccn5j8og-AvFSTyHHptUmnvEqjrpk0JkjOXaDtGMEP7popeA2D_MFdPw_XcKbaWr5ElwX3B1sgjTMgHPeJRQJfkgj_u98HLIvEKHgIOghLwoYoIJSO0OZgD8Gt4lVMFtafRr5LKJe-xCyZumRIQTWQzx5c8edCO9Zi9LOgB9hoUCNnb3qoyK9ZJHiwOVF46GMtTQ6k",
+width: 2048
+}
+],
+price_level: 1,
+rating: 3.2,
+reference: "CnRkAAAAp_tjm6_Dt2Ok7RRIOAmNAZCOqXA1rsBjyf5D7rfFLbuwzYyh8m8l8XkSMC2bCCs2_JVJOYC60jxa6VkEVIKtJI8H3T-itY2263BX2Mm22mQ2I00_s0o_Bc0rRV_NKjWHtY4Si2JIszP2DgOlzskcbRIQsb5-7yI5407ya5GOfqzIQBoU6JXmI_4KKvHfvzIv9d2G9h5FK1g",
+types: [
+"bar",
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "161 Ludlow Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.756479,
+lng: -73.988543
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "75150891e9dc8d3548537e47c61c2e6ae79c7f1d",
+name: "Ripley's Believe it or Not! Times Square",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 140,
+html_attributions: [ ],
+photo_reference: "CqQBlwAAAPpTI5aSqrcJdQb1BQ4ubjMV0Ki6TUlS1m4FgE-FUsN51OPsO3CKqSEBOsoyrjUE6KLxC3ESpeqGjWpI6A-nz4EbbOAE9ygUzTENTxmOV3NTgqbwtx-kLMXgoHsa_AtUjIcdk2VS4tTrQlyjSkrNokm5duMPiJiBOw22BnmmyXMrK0C4XiJ-pUw5VQX7c1uHLlTHN9iHOA2naypB3irXZdUSEN1FJ6P0yv-vPfGQEORGxJYaFGJeTa1uKOYUzUFywjzcINGuAxX3",
+width: 187
+}
+],
+rating: 3.8,
+reference: "CpQBhgAAAFqA_z0KlxtC_fsU4vf1KPb50lAHHXPYkxexzbAnobsGf3RjEjy5cJxl5sasA5LreHi19cSmlkZLP3gdAe5DH0ud0jWaJYKzG5ts8ibNPVVqy9J-fThOLE4MBIRqckP8-dJAVo591pdSR7_AGjVgxnoKgl5izPeOafeK60-8Zu9IdFJNUhjUiP-NcxZLV7U6FRIQtcvJiqUmVktZHRk4OTkq4hoUvBxGb0M5b21pm7yJOIeQUF6zTFU",
+types: [
+"amusement_park",
+"establishment"
+],
+vicinity: "234 West 42nd Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.729088,
+lng: -74.005419
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+id: "4c5d4ad71360dd78bf40c05e8a35bc476cda67b9",
+name: "New York Sports Clubs",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 864,
+html_attributions: [
+"From a Google User"
+],
+photo_reference: "CoQBeQAAAHso21-5EuENIsBMxnFPH8u4Md4IEx5uiI04sBpKmrdahoFyBWIMo9nRW_UPO-TP99k5nGabJvE1l_HHrna_WbELL50xuxVCUn4_kn4_i1DJ5ZaFCFiHioqOwnMj891iC6o5infXhZPa15SkkLdPs2LX1jOVngyXUfsyjE5--2epEhDvkA4tmY81_w5mQjxAru9jGhT0YZxD-_uCw3G68mcH9a2nidpW8g",
+width: 1296
+}
+],
+rating: 3.5,
+reference: "CoQBcwAAAAE-R0WbfVUr0qdYk-0_FptiLuHuFSpORPuDzdyeVpNKuI3Yg4Lz795Xlb9QoTEJhHju3whd0kQui7lon0Gd9nQpKyB-LM64j-8yf0iXvhGsWLiJXG8sfCOav82b7_W7c2bC19G2o-N3MIfP2QQGMw1Ld62ZtR6yw4DYqRAI_iFvEhCmZA1v9I_IjsjQkB5lIzGaGhS81TMY9fLm1uadQhkA0T8ItPRTZw",
+types: [
+"gym",
+"health",
+"establishment"
+],
+vicinity: "225 Varick Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.76773,
+lng: -73.9718
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/zoo-71.png",
+id: "f623597bb5e95d518d99e6aa87e7f5056a5f856a",
+name: "Central Park Zoo",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 639,
+html_attributions: [ ],
+photo_reference: "CnRnAAAARrjKdmjbEJcei5YEOPDYpXwyLM14PtlT7rxWiatSN4_OhIYbDiiYoLaA0GHKWndrTIrOuy-WEGfZD5LUMd_ZczWUdn91mLwK-gq1pwa3iAs6qK_YMBOD0WCQh6qtU7PQf2nAZpT7l8hJDdECjOiUHxIQuFFAYROWO007i4rHBMF9OhoUFSNRNVMcuWNvQqfblq5OTVFiMt4",
+width: 960
+}
+],
+rating: 4.1,
+reference: "CnRtAAAAPZ6fkNMBw4GRnYSdGdumI9IUlyJ8DVexYhlfYxzcGsKcTP3MKLA2j40xVrxyv5k8UQAAaEZnp8sYKCqT6RP16FY-PB-crpxXQT18z-M6ON8X2Fnr7zQw0uEosXlGcku19R3dYMqyU3mEhpDleWzmuRIQyf5B7pRw9kVFcn-XdN96PRoU8B7Nn3FqRm2f_M2MMvRkkfzK1lo",
+types: [
+"zoo",
+"establishment"
+],
+vicinity: "830 5th Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.773207,
+lng: -73.98139
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+id: "a9ffefef860f76e7fe7abc01b3ca90a35e06afba",
+name: "American Folk Art Museum",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 1573,
+html_attributions: [ ],
+photo_reference: "CnRrAAAAJ7A0-ICH9wFg_GXqFBO0X-fJuD8vnIkQhra4Fx2sht24BBCMio_qiRZ2mHOjTGPWTj-ngRytN8VdwwRTBr9vUydviEuR4VUGFXhPO1K5CtTDNGlLOTWdjPkh5WoNsTeijxfZ3TYzNzfTAuUuZcr-DxIQBimGlRIaBsBKszm4M9DUKBoUR3RM3Lyost6NYyAyvsIIN_k09Hk",
+width: 1574
+}
+],
+rating: 4,
+reference: "CoQBdQAAAMcPsAVxqtDLoCej6FA2htUVJVL_sAzv_iLSyDXB_stP9_lHrdlosY0I4Te9kR3dBHH3Z_oatMdh4Qw90du-CcBZJUzVF9C-PNZEUQpVhhL63NTasxeqzPNEWHuBWGXqh-HLdHtoDMPBqM-S6aOvrf8W-ApidZBgQweoMGsG0OlZEhD5z5U1hHHwQJvm4AcpS4aUGhTjQbj8AtS04DytswsSPsqH9aGfUA",
+types: [
+"museum",
+"establishment"
+],
+vicinity: "2 Lincoln Square, Manhattan"
+},
+{
+geometry: {
+location: {
+lat: 40.715917,
+lng: -74.012515
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+id: "3d47a28031ae0549975fda0c1463a2a63c32b526",
+name: "SoulCycle",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 393,
+html_attributions: [ ],
+photo_reference: "CoQBdQAAAB8lG-p7UR1TFDhYI2iTEVm5oXclYdLcJETI6Uol2V_K6iuuk5EXda1_zM3hLrzrz53pbhSGmDiiRLVLPHDegKEaNiDBfX3AV6i1N7w8p9bx8IE0a4kEknf2mZ6B3CnjdPJVvqJ_-T3k7Y8ckOmZZiXUEO74QSyygqe16b_UsYt6EhAQH9Dp_wK8Hc99K_Q7L_uIGhRoqVyAafuHwnX0srdYCVoDwYUENw",
+width: 417
+}
+],
+price_level: 3,
+rating: 3.7,
+reference: "CnRmAAAA5na2pwvqDseMThHnDVz_tqpucnCv7FfeV00tvBK3_Y8_hMwpDYX8fQVpUaLl612VlOEbLWPCbiOI3qOs3Ex3vl4dmq_dK_o0zuLfDLRoHCwtmYwXa9QI8s9qTM3gRrahF5wEnXJoGmopiZLjoijRrRIQ1TyJg5G6DxdGhbyxyuznUBoUOPneRpZx2i9Ri89AhtSGwNpTGdI",
+types: [
+"gym",
+"health",
+"establishment"
+],
+vicinity: "103 Warren Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.748159,
+lng: -74.008436
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "05420821c4fc1b647be0285615f8510f3197488b",
+name: "Chelsea Piers",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 918,
+html_attributions: [
+"<a href="https://plus.google.com/110899802402250107623">Nitty T.</a>"
+],
+photo_reference: "CnRoAAAA0XPphAzhTOCB1-JYjDy4k7ykbDi-fnSILkFqS8V7bPG9xTDLhXqU-PUKloTWPyKD0Iy8TmZ1IkIYeu6kmE4IN52HwIeBZiUF4WiEK-qnKvMRc20X3UzyagXsfBqjZHqmg3qL1NBrepT3YSyNuC75GhIQ6LBeAmERhr7jQQ_6wM9rrxoUJUAak3gl1cYQYYNoAMTt_iw6PSM",
+width: 918
+}
+],
+rating: 4.1,
+reference: "CnRqAAAAZnTjt0WI1aijqnvG7duUNB7n3lYUTJvG3qkeZatMdzvXoUyvizXOkYS5IIGZPk50FCb6gvqODOe1OLpMaTr6yW6L0U2UzDhZeaBBm9BfvVz3r_Vz2tD7JfrH-_yIUVoe7M56blBece1Wso2bOZatcBIQiwMH1IawhqIAbi-YRD6K_RoUnYeZ5fRp6xDW7C9rSVZI7oTP8BE",
+types: [
+"establishment"
+],
+vicinity: "62 Chelsea Piers #300, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.736792,
+lng: -73.988247
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "33e81f25791c39dba4f80d7c7dd929b66fd13ccd",
+name: "Netherlands Board of Tourism & Conventions",
+photos: [
+{
+height: 1152,
+html_attributions: [
+"<a href="https://plus.google.com/112876384934775714096">Walkerfifteen NYC</a>"
+],
+photo_reference: "CnRoAAAAxVlUT9WM50SKy6ngSkCcCrprX_Ay1dRNstD8n8xnjKFHb8Yaugnu8X38rog--9at2U9iixTL3Oe7Prc9y7OxHEy8tNovHadOxJy64HgaCWOT1pogd18KxmdD6CtYSDVUYCHwwN8E4hXsJRB3NJs1LRIQWJHiJ8UeTYRhYQfnheGGDhoUkxkMEMc4BJ-QHYMUlx6oob41JkQ",
+width: 648
+}
+],
+reference: "CpQBiAAAAP9vXVXPh6aqLgdzyh4UKLt5XIDNayxuuckN3uk4u2Hy_VmvcXs8YvB2QSg67KzcCD80kfaCLVasmWbLjzUwneLCgaSVWQ7FVO2Vfw250THXnkSS8P7cxtd9r5vj8VVzwcMVksc1qkoxSWNbKNr_FZhaZw4Ri1WgTVOkq1PGrSheXNcj3yLjy8awIH3sgjdOMRIQbCIaFWW-tWhW85nTNj7cnxoUd4gBNr2NGXpTtjq3VTha7gqPS5Y",
+types: [
+"establishment"
+],
+vicinity: "215 Park Avenue South, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.752496,
+lng: -73.968452
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+id: "0514bddfc8231244b3b67defa247e7e927ac3b77",
+name: "Japan Society",
+opening_hours: {
+open_now: false
+},
+rating: 4.6,
+reference: "CnRrAAAAZH0Fn2jZxNXk-mST9UNb9JYtNrNdGeerPV_Yh8YoPvrTzFDYBTd7imS-9d3Dh2GEwaiiYxSbNpfZ8RauZxVQmGSbgKSNUNjbqJQOJaI25cY_3M4wujuGqTzTLhB44hP7iDx5U9HB9LXYi5v-ONc9mBIQJJVYZsjvzn9oozVweJstFxoU7DdyszcT-0XIMMlP0mQkfkKIMVw",
+types: [
+"museum",
+"establishment"
+],
+vicinity: "333 East 47th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.745662,
+lng: -73.989808
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "fce8ec276126f060147263b33d5ab11f2b947c7b",
+name: "New York Building Congress",
+photos: [
+{
+height: 228,
+html_attributions: [ ],
+photo_reference: "CpQBgQAAAD631II1GALS3dCYA9jXeb3Y90p4L-RQ2soIeKkU2j5ztIV6hQmRnAS8yypPjkh6tDPqAdMftW1qNCAvAKh22buVkAcMMRVeuaBJe58p-0M0uwBn5fm9rOzs0LrI9CtOQTedOaTe3IsCV2esDy_yNt5lwHZ6mxyPOcwMzV_boFV0liwhC96RwSrbOg9zBWqwnRIQLPLYctLOkZzuSz7QXuOOjxoU1nTYHxQTT-UZroFoPZFkBvNUaS4",
+width: 136
+}
+],
+reference: "CoQBdwAAAAVvzPEFJVpuel6-kCawBhIUnDFAWKH11p9sM0SWr1lW7Isc7_L7QBIq-lzsDittpSLdxwEYa6zHe45aYRGido5PHcwr1-FsuzXvUItRCwmqTrYHg7lu-sz_KTZftGgOcfVdUnb1jjcloGvjDXCSirLUrPyHZi4GtX4woPPxHmGGEhBcJM8pt1cj7K-r2rzSwYVpGhSy9dK4bnw425T9ufS68Hq9QGJFwA",
+types: [
+"general_contractor",
+"establishment"
+],
+vicinity: "44 West 28th Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.768096,
+lng: -73.974428
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "3a87c22d2097ff671c680532bcf99d5665c2f79d",
+name: "Victorian Gardens Amusement Park",
+opening_hours: {
+open_now: false
+},
+photos: [
+{
+height: 1772,
+html_attributions: [ ],
+photo_reference: "CpQBhwAAAAyFlQBP400GYLpmeWlXq6qLOrNBe1H3KJwKF1uQ_pxOjWf1cUyXedN9xoHh9fY0cEJc1DQcKEAcEkdEjJi6TJKUfmgpCZ2ApKes9bQxWXkUIaRQpIMPPt1xThS0_tILnfk5KtoGWsl6pVHDJu1rMHH-dP3an63_IwzW76F9vWnXIWCVagosva5I1G7nqCnXmxIQu_hwvAQa2ZmPGdSp-i-03hoU_izLEt6pqmyYeJqJK5tAmWUR140",
+width: 2081
+}
+],
+reference: "CoQBfgAAALOdJw9GvEBEGeWmuSuX97DdcZ8kePckeUuHstSNq1BrmyfilNxyoQqT6SGb4OyRYZkCwgu1BQzBL8UjGkE55Z4nq97BFbIO-QVsPZ8M_BcGl1tM0_N7O4_ViQGjYNwx3aTE5f1848Pq3fwnsEd5s5S13oPJ5acCY8snpuTuAugVEhAy7GB6BgUbUr8RJ4ZQzjqDGhTqUPaEYss_yltA4cfvSikApMF5Ng",
+types: [
+"amusement_park",
+"establishment"
+],
+vicinity: "830 5th Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.715762,
+lng: -74.007995
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "0ac8080d07f37f865ab83b4867a0b9be2de0eec8",
+name: "Gymboree Play & Music Center",
+photos: [
+{
+height: 609,
+html_attributions: [ ],
+photo_reference: "CoQBgAAAAC2joUQFS01uxBvjsQ8yh_XHkwCpQVL3WbpVJ311rh3s8ERuPcT9D4tC7C6FlIKAdoPc0h7iwyjTaC-Bs2pZrMSpPqncAEU9CzF454jtyRs29j-meZpT3aFYNV53GsOw9HsCz-rwmcfOd36FCzGpwx9rH_7l1WX6Fdq2uIaLkYIjEhBBxhciL3ETEfAsRxPlYtG1GhQCYJqSVAaeqjGLvS68DIn88KQUOg",
+width: 406
+}
+],
+reference: "CoQBeQAAACWImyRmQydy25I6PHfyelBrX0UfwAqzGtxiSoHO0ZF9gLUXZz3yG8TlYyy8geUvNNmEKizHiwN_TAk_B9NtROOUjzp897KIM8Oi_2fOGcxrxFvhmsbjuMqp301fU-iLwk8oSRmftF7C-MToUYipbuTBQvfdJws-UNiwhrp9ldVNEhAZ6qQheIgI9A5uQZ2fOinSGhTGbvutWqILOQeDV1YeGOfwkWlgyA",
+types: [
+"school",
+"establishment"
+],
+vicinity: "100 Reade Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.688278,
+lng: -73.988942
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "f43d742d0f58f656ffb8eab40ed7bc4adb784837",
+name: "Carmelo the Science Fellow",
+reference: "CoQBeAAAAP7Q3c62H9m8236yfvOChNwlqmy0Pyis958be3sFVCzAKs-gChJtQigLUsXwYlwBmi4OarMoR_42cv2UozL573UZs1jvZxRXeFq0ExrVjtucvvTPBaZrlp2eUnbKWK8Brv-RqdTd2THosKkkQd6828fSJ-lEZGMMPwdHjGZbrYgVEhAMeFwss3mqEKS64SDS3igoGhQEl0DHOd53DC0Rocpqzbu8TLIXTg",
+types: [
+"establishment"
+],
+vicinity: "300 Atlantic Avenue, Brooklyn"
+}
+],
+status: "OK"
+}

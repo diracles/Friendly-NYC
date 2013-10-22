@@ -1,0 +1,518 @@
+{
+debug_info: [ ],
+html_attributions: [ ],
+next_page_token: "CmRRAAAAcAWYnasCnH2oaQswVVH1Kb64R8Pm0CWNEwrUWZNMtJq2f4NGUTh1fLh6lp9HRexmA4ntxwXzjOEnqC17Q41inIJpq3L2E1SPeP2l_dnR8iJIqokUt9spDyBqql0snRB5EhCfDyTs0Qu_9x4xt50fmgb0GhQcrf2veH5TX7ghdl9qWvuN1BdTZg",
+results: [
+{
+geometry: {
+location: {
+lat: 40.74427,
+lng: -74.00645
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "9ce75c052ebd717f875c691e010b2e06fe2b3719",
+name: "The Park",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 976,
+html_attributions: [
+"<a href="https://plus.google.com/101143710828336438506">Gregory Marton</a>"
+],
+photo_reference: "CnRoAAAAjUtqbft4luVsg3vmLf3hsvTb1QAV0J-S40TFPGhtj5rSk45m_TT49u2s3ttJY63EVGSN175GOppsfqjy7__n6dkFlH_IpSuosmF-mes2ujH99GGFvEJL3dAjYVPDhFNyKB0AtfhoDGSgS7yNQGQ-ehIQOu0EpkluL8X4c2kKrHJuXxoUcFjMLyzlaTtd77gApliT6A2Fwbk",
+width: 1632
+}
+],
+price_level: 2,
+rating: 3.7,
+reference: "CnRmAAAAUuvjX4jpiqgudvOXN9iAJz_mBE6FmPqTAYcAihdo5ppEmaYtSylTx2nMFdmzWe-7WCU_cZk-fqGc55tHI9thd9K_BOf1CWpbPzj-dB95_Aayjwa_3TANe0tQegpPONcBA8U0MV2qrQYVWHYnIqqN3xIQ3sP8jCVaPGSHtknNOUGnvRoUzP6PHkaNe8zZTWgva2U6hLCEzBI",
+types: [
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "118 10th Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.716351,
+lng: -74.007622
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "83bcef2be8fe6e322ea93f1c18e5a1554e54911d",
+name: "City Hall Restaurant",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 853,
+html_attributions: [ ],
+photo_reference: "CoQBdgAAANChz5ijmrrZbFtOetXYrg6B6QPI_nOdtTItjbDJEIvOuxneel73T-T4XMCe-CgfF0N66s9ceTcNCteyA8P9kwfeNZIPML0NV3d7XlXTMgG2ZRBHGaycK-NfCWm1K8UxN6h7S0ner2Rp0035JZ6eawSuyHb8OR7xp7bWoyDQpM2HEhAIKMB0ax_AmU2_yocJ0mw0GhRWx19MIFfJyYPH1ZwfkxTAdFip1Q",
+width: 1280
+}
+],
+price_level: 3,
+rating: 4.1,
+reference: "CoQBcwAAACRTUI2Tla5XaSaeqYZH1u6yz7kjlgiscAx7iJlaphpljEbDbB5ejpH7PciuK9on6voXgDLZGJBI0emh5Gu9aycA9yX_xfiLpfcZMgCo4Fhi_1VeCV4tnqG_z3aPYTo8xM7IsJfPV6f9JZVOGBejneo4JkVcN2A9rwFnpA4TLwQ1EhAAS_cwZU5e5mRD5bbN-mFFGhQ0bFUgr6Tu2lj2_pXnwLZEEfqrQw",
+types: [
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "131 Duane Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.740728,
+lng: -73.991049
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "56362c2c6ec03058f944739982cc06cbf2416a9a",
+name: "Greensquare Tavern",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1000,
+html_attributions: [ ],
+photo_reference: "CoQBdQAAAJ0SpIvPQEfK4TDTZ5cyyipg1WSB-fCcdNjRBFn7TyleQIa_sBmncEqJxiUQficO4tRkt4HnQC9LSNGtJ4Qf1xM9Kh-aMjpWfnfWMSVmUO-gdvsUo4AwPNKoxSoa19tQ4xDAzBJ_W8_HAdMx5GNA-bklTvfj_BJ-BqBA6dYyDAPZEhBbNFpbCGzxbxi1rqdzsIVkGhTNSNW0qSZlXpSpI0aOgrjNoUbtpQ",
+width: 778
+}
+],
+price_level: 2,
+rating: 4,
+reference: "CnRwAAAAwmBqEBUxcEeGNZw5Y9nSABJ2pZShCZiF7LuYERwPZQWwseisIEds9rE509GaRMIE--hxQJjlX6gYXNTAR4ogHi7vt2NHyjFwBX-VPg4S97rdpkUjN0pcd-ivSU5WnvBb7xDqKNrNYtW0WgXIp407xBIQ50ZibdoN-5z0bOB-kLcjrhoU_fdal60EoAFqq3z5jkNcXzptypE",
+types: [
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "5 West 21st Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.748218,
+lng: -73.987888
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "0bb363881d14a5c3a44e02b409e5652652f1ebd4",
+name: "Radisson Martinique",
+photos: [
+{
+height: 169,
+html_attributions: [ ],
+photo_reference: "CpQBgwAAAF_7Da5tIgXBFaT1DeXS1g3UiRK4gZNzQRQ79c-46ErgB5AINuLQ7bF5s6ORWtuzRdAHgm7_COAs8JM3Tpq7V-HO7wCwzdQBUrJPdtxgjd2Vi85sQiQNRZjMfm8ED3ks2Ac3MmNCUwjdD0W5aS0Bl5kaWwtbNcGluxDKYKcEpsKm0lXkSs8RQN1pa6DvnC3o6RIQaY74HTqh6IuIVW3OzuWXMxoU-gQCCLvjmN4RiylSb62vVbtz_uI",
+width: 170
+}
+],
+rating: 3.7,
+reference: "CoQBcgAAAHVcqE6JWrC1W_84syHcJIYCMjAwp5hMLAIqV5wWhzwKTv1FB-w8Gt4JIvYLgCjois1zGoB5T6ZunadxjF7Z-QWgTwF-bRyDNYBX3JtFrEkWp1KDHJ9hQWuEJvHkLZMS5jfHbNqECSooRBeJCahlNt623lPclZ6ZekFdNyPFSvMGEhDMuM9vzImDFJiTdbyF7qJYGhQtc90EOvUuLTTHHEXpdDNRDvf3IQ",
+types: [
+"lodging",
+"establishment"
+],
+vicinity: "49 West 32nd Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.715544,
+lng: -73.998454
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "63685446acd4951432623033486d3cf4cb913418",
+name: "Old Shanghai Deluxe",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1536,
+html_attributions: [
+"<a href="https://plus.google.com/106154493978299996445">Manu Cornet</a>"
+],
+photo_reference: "CoQBcgAAAJCTN6X9-cSOsC5rZ1ouoWwwJLptjeKPRxiEyV77g62ogr1uFcUC8mcpb3fCCa30E27CeklK2gaU_RO5xeyfLyulAym1P_a0dP_0Ie_vI3FkWZI4fWrGVCjjVLRWn78HnzlHleBTUGk9Pxr3s2hoJvLQzq9FpB1ditgJlp44BGl6EhDqLx6DE5rpJybbEDyNyFxUGhTL5vGxUro_Pkd5rkNvmRDqtXfzDg",
+width: 2048
+}
+],
+price_level: 2,
+rating: 3.4,
+reference: "CoQBcgAAAOX59VDOurCmWyXIxKuGkljrEdQCUTfAL64gUyDfPIt8DP00w6BM4CtEG62nHR7ZXmpBRwx6oqoxQgsOc0mZtkUHt8IHZOBQ9kAh8EwLp2HDLH8W8-CHEtqlBs6PRWnixrRzT5aCBsGb2JDsprH19vymA8Q2V8hH0aTQkzly-z7GEhDC6eufqvCjCaVv1X9yE9KXGhTWS0FT5dz3M4wbCWhi6_PoOh_f2g",
+types: [
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "50 Mott Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.721481,
+lng: -73.988424
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "86830374c44fd7d3d592377f820bfdbd926718e1",
+name: "Noodle Bar",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1367,
+html_attributions: [
+"<a href="https://plus.google.com/105272327605733068897">Topher Ziobro</a>"
+],
+photo_reference: "CnRqAAAAyBiD8Nt5C0HXV8OXk0_XxbkjHz4f-WEx8Ady_PpzbjVCcqJDWKJiIxYTzqZpXym-4aSeUs1xprGAiWt8eHpkmfBZIWBpOoT5yWcgJ03woLgN4otZ_jFA2VxhXp8FXzpXtb5etagPeTP2_Kgl21UOAxIQHONymMsdLKQzZycprwOTAxoU18-3neOVvoThwZW2uNwbga5wtSc",
+width: 2048
+}
+],
+price_level: 2,
+rating: 3.8,
+reference: "CnRoAAAAju2MKwDJb3S5dYqJ81qtddxTLamVKn8Zh9jMNW_i7DwKpLcjPxGRMSAq5vd8RXWuzUOOyH-0mRYndnmGfJ_fPkWXZ_GKVF45_A3_uOmLnSWfuZqP9BUrmY6hcO_ayeWT8gHC1QlpEitaazouY9Dz1BIQuT-yP3wEfYdatA5ZzN3g7RoU3ucFnu-FvbZJ27ng_prkMKC7j_Y",
+types: [
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "172 Orchard St, 172 Orchard Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.71665,
+lng: -73.996011
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "3c82c2b5c4ab90ae9cef81cc3cf68d003e1c4ce7",
+name: "Friendly Cellular",
+reference: "CnRwAAAAPsqt9AQZeK8oenWsFykg86-r0J1qbfzrAONWoVfvA2XC6sCCjDjBr6zYU1vnOY5hYRKoEqwQMmgvQtjg4QW7vFBYmB0ic2y_1D3OyvirB2KBKYyhoHno1_zlzzuueh1X2plMRjmWLtHUP55qT0oJphIQAlrhH5R_oeLo3_lorrsM3xoUoly2d0hJ7jOSaGCR-vUS_FH1y8g",
+types: [
+"store",
+"establishment"
+],
+vicinity: "70 Bowery, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.722559,
+lng: -74.000433
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+id: "aa4333db8c58988ebfef3f9c6fa2a8fae76a4f13",
+name: "Keetsa Eco-Friendly Mattresses (Soho)",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 450,
+html_attributions: [ ],
+photo_reference: "CqQBlQAAACGr7BIKRRmld4ENh9D-euXq5jsJ6GdHudXxoVmlbZRw-v5WuuuYdTSL1CDn2la_AKZfyHFy-QW_L8B5j9LI6t6lazIGO-MxBMzDQTsYutRmKF5rHxlkL4o4ChGsB0SajtzZz6mmexPIoDVtt2ZdZsarNLI1wUj_E8wmPJHPoP0VEOOWoTuAIEUHxY1AFkqDxxW61LpfOjS3Ml9PQoq4oXsSEHR6Wy_0W6FIG8Wr-Dkb45MaFC-qNLNhOk7FEnS-PQzUkRuA7RBw",
+width: 800
+}
+],
+reference: "CpQBgwAAAMpCtGb__JbaSuOwqfqmLG00mGCn0VNCl13aRiJ058eexytT_p0OUXugqE3HgRv3_YTvEt2PZYVqhYg_6eHEJnBAb6dCqIZfL5R80q0Pkmbgah0szi96PCItOMvs01VPq_xazMrYvoDXeIhSB6_g5MAZsTV_H1avKjwskTSwyoNmMC049WT5TAumYwIY9ob6yRIQX9eA_IJ9vZzGPgnW0hqlzBoU-Dz9ZDLE1pMoHAarM1-eBHDuKbs",
+types: [
+"furniture_store",
+"general_contractor",
+"home_goods_store",
+"store",
+"establishment"
+],
+vicinity: "69 Mercer Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.751803,
+lng: -74.005105
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "2c69049e8996b643a67169f19559ebc8abcf9e07",
+name: "'wichcraft",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 432,
+html_attributions: [ ],
+photo_reference: "CnRvAAAAWvJJtHHEGxg1BRSFWWc9dkZ2hpH7wSoRn4MoOqo_55yVRlfxmYoF3o2rVShZ7xcVPxSPw6S1i_hlx1zKCw07G-ff-K6Lg8buWassjHqLQklMCIulOQVjOkobNAzI-tVRlaMHQ4c3LXKTfb7WuzB9vBIQ3v-_uNdy-mfX_fIg4NI8bRoU9fQ07hujJoF_m08p0e4nI6mBMi4",
+width: 540
+}
+],
+price_level: 2,
+rating: 3.6,
+reference: "CnRoAAAAItkBZj2_JFWQ5rkR5p_6WOw00l4R70LARKLxvgPQeDl5JVnUT0DCT05wL-b8icaI8SGod6bmiEhAhtKKdCjG4jzZJB8aKqLVHE73EuUc-SbD-jLi4l-ohTX8rRYZDG81RAzWp9Qs1uA5GYGYynB4oRIQ-jiXJFMQ-x5IkBiqnRWCThoUdN2kaLyRPfs3t9ml3V-UWBtvawU",
+types: [
+"meal_takeaway",
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "269 11th Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.709314,
+lng: -74.008709
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "f2bc3155924d941ba3eed91f9efd01db86e217da",
+name: "Friendly Pizzeria",
+photos: [
+{
+height: 1367,
+html_attributions: [
+"<a href="https://plus.google.com/116707993342200424883">Mary Jones</a>"
+],
+photo_reference: "CnRqAAAABMcB-QhhWLYxsSpkA8sst-ppgGOFJoaPigCpVfY3BpdasdeoDj4Cbl6xtnggkvxmWFZhJ4TYf5sUzTCoP79tW-UeWwdqaU7TI12m_XWCuRMG2IOQi9cc40p9uOC4GRKOyfEq1d2Dd3O_oMWbWhGdrxIQNSdq5R9fuI71J3Qi08h3iRoU80Ln5BrWT7DLKtqq6AvxKpsenbo",
+width: 2048
+}
+],
+reference: "CnRwAAAAEjPr1SxTb-TPgqlYebEKBeZaHvDaOFg0cSKnh0LdwDXxT0IcRbhVO35ntUlR99e0epZpMr-vHnAGAMZgIz7Wydp--3iespN4PqAk3Q1PdC7Nd8724UxXHP5t4IX4xsMrSB5K2J3-w46F0hrrMknwdhIQM2KPJOx7_nkND6qp0yc2-RoUM7qbUhr2xxWz3b8MZYn5XKEHins",
+types: [
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "59 Nassau Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.705527,
+lng: -74.007762
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "527b9273c6b86744697818e5886affc903e5aee0",
+name: "Friendly Sons Of St Patrick",
+reference: "CoQBeQAAAKcTOikfwvHWkGpL_oq_Rpc1n86hibU4_9SjfK1lG2vqLMx5gNoapkz-FGeqJ2sKfjT614nHQgLG7fNHzS8znVA3mTiMn7yA_J9tRr9WLj84iBU6DdtXdUpNdDh7s-9MjH5XFlWp7egOAAdLR7hMVljUSu3zWieIZiu9VGChaq_HEhCgrdO4VWFJVWji82Nu-dkaGhQ1mws_sRfMhWpH3tvBG_hDVvynVg",
+types: [
+"establishment"
+],
+vicinity: "80 Wall Street, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.687255,
+lng: -73.985259
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+id: "94e062df47f90864b5913da997fd20ccff9021ef",
+name: "Greenhouse",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 853,
+html_attributions: [ ],
+photo_reference: "CnRoAAAACkkHlYWrGAMRA-V5zpWc4r4RvJUOE2MA6L8QyqylB7-wCOeC0IhJTVuXYhuWR7xBOv_NfwJghGT8jK12w5pdkh893iotOsmxahZVww6_JBisWixBJIMIDJTbjiAcLVZhLuXyLKuRoN3OR2No1vcZzRIQl61IwRnZaJ2fkVSS-23JjxoUr5Py_3Fd9f5CJIZyU1dw4rVZvHk",
+width: 1280
+}
+],
+price_level: 3,
+rating: 4.7,
+reference: "CnRpAAAAq7ccSe1ayVw1HhBNqNXwuDgd2dMaUIh2B2u5FVMbMbBql9O96YOeLEu-9qF1MJDS0cQPNndah8RZ_gyizUVwtxYOtjEJel0f8sP-PNfgvnZuA8igTQwroVKGaKb5QKl7dh_hG3MG6S7KVU48ulb6VRIQ4OmNItZIl2BkCQospDS2zBoUYmXNe-H2usV-g0S618D9H3udaSk",
+types: [
+"furniture_store",
+"general_contractor",
+"home_goods_store",
+"store",
+"establishment"
+],
+vicinity: "387 Atlantic Avenue"
+},
+{
+geometry: {
+location: {
+lat: 40.719501,
+lng: -74.043347
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "126c032c68a4d0e13d6954e2f91fb519ddef3960",
+name: "Friendly Cleaners",
+reference: "CnRvAAAAC7ZB-NvRnDin8vRtIOJ_m5PDcRVvfVMRLyWx7u_GJN6S23jAn_y1C7AdWnNk_N9uX_O_WlIYratkJfn9ctTFbRMPtBB0ycJOBc1rhuBVhVa9YnuqBPb66cWofAXbWUJMTJ9gPIhDiEU8maMNY4DK_hIQIBIDv0H4JAO5UQkDhZzaSRoU9uDmRqT35U4ca1Ooc6YyGi_lyDQ",
+types: [
+"laundry",
+"establishment"
+],
+vicinity: "107 Columbus Drive, Jersey City"
+},
+{
+geometry: {
+location: {
+lat: 40.751256,
+lng: -74.02825
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "ef6f809912ab6a1eb96dc00a4d150d49d85af7ca",
+name: "Friendly Cleaners II",
+reference: "CoQBcgAAACCXylpnIN4iznNFgoeDuLgv4meqm2VyUFBiQMC65B_qDry_MMUnU84Go7HnP-dE4ceEZWRxmAH3-khkFmAnku2qNDxLhqKDIuYzqwEogV77bZTPkbkGg0PFTCnGt74PBeWekieEhwRYHucI6bfoNKStLvIYEX_92bFGsWwpRMHlEhA41K27vfIUJhuZjHG3yERVGhQOzodOB2PdfCk7E1kLMCzuzKSdOg",
+types: [
+"laundry",
+"establishment"
+],
+vicinity: "1145 Garden Street, Hoboken"
+},
+{
+geometry: {
+location: {
+lat: 40.700303,
+lng: -73.947164
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "381e0915adf4cf719236eee150e6ff7ee57e2beb",
+name: "Friendly Pizza",
+price_level: 1,
+reference: "CnRsAAAAN7LYgOB1sKia5JOXnDSFUgaVfJOyOsPfcEWIMmLLtJljldCEzWjdQqIzUafymyxM-Ue6SQRsx-phon_3gpmiey6jV10mYwBSUAkFt_8jS0H3KhBazi8bC4ENneQYAVxwVZlNI20VbPq-tF-QW3cWyxIQyW2iwZL5UvbDyiAoavyTYhoURe-EW-DUmQxgmAF10alqh5w_yYQ",
+types: [
+"meal_takeaway",
+"meal_delivery",
+"food",
+"establishment"
+],
+vicinity: "211 Harrison Avenue, Brooklyn"
+},
+{
+geometry: {
+location: {
+lat: 40.75599,
+lng: -73.942488
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "10ff55441a44c32e7297a45c299a36b59b7899fc",
+name: "Friendly Restaurant",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1360,
+html_attributions: [
+"From a Google User"
+],
+photo_reference: "CoQBdgAAAL5M3TOXlb6lGcehvYjUu3LP5SA3p0DgAsH8iJ1ExWfghJIZ6dGvjMIP4Hzot_U1aEDdRBHcsH8Be--MLodLz2ildLhF6UjSGsgxJUNcvIB4XYVBF4G1BM4aDeFYrFVjOXeMA3n4CWgig4LejIl0BDzjkzfYYESCgSd2PA2KftY5EhCNa90qaWsiRNPLwB7Y5HxLGhTApBrZskvQdszAlQralQhIliiIYA",
+width: 2048
+}
+],
+reference: "CoQBcQAAANQdDvakv_Ejkomw2GXiRErx-OI0f5mrqznUnoHHvnuZo73DeNAQvkUQ0OVLKEIubYglSy4VO0yXAetjCVV1Ky8NkaknDCNuwc9VwUDRFqDuBRjcOYOKhX5XxAARHWaUVFgYDFDpNnbnxHK49NOg5xvwgnkJwpqLNFJ6JX7A9sQyEhC8B5UPXwd6oG82qoE7dchXGhRymO3uOMTD2VpBIxmRLvm3P1dsbQ",
+types: [
+"restaurant",
+"food",
+"establishment"
+],
+vicinity: "12-05 40th Avenue, Queens"
+},
+{
+geometry: {
+location: {
+lat: 40.744961,
+lng: -73.987296
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "0da6904831eec09a538d22777ff97f6eea2d10f2",
+name: "Julie Nusca - Organic, Eco-friendly Hairstylist",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1590,
+html_attributions: [ ],
+photo_reference: "CqQBnwAAAPBMiRGke74Z4GO-icAhodfA_-2UtmjPMZYjNK5QVuYIssT9YQ7pYkDf5z-eIiPC_sMUFP-bPy9twVqKMkQ92KeoefM-xTH9AfsVq0hpnNGPChOI648FC0yUbxwiTGBzcwc1kgQJ1Mtc9xy3UD5Dq0lLV7ofJkL9DoZP7Y8gprb-R3Y5_Hk5tL5mZ5qNohGpKUCq6Oi6abVG-xL6TuhWmaASEAx5J2Xfi3CEbVPAqZaK_N0aFIatO31EsHZzGNIBd_MyZhUEsF8y",
+width: 1590
+}
+],
+reference: "CpQBjgAAAPJeUS28lRjiLG9Uxl2ZCdnv6trTDSHh_VsukrL0QFIqlhYOE244LJQkoenvOAOOKs_hqdp37xZC8YgfSbCVUaJ0viyiteioElVPlvj-I7Y1cpC125dwRQvHU_jqBT9VJO5XfqU_VeFNJu2tGd6MWrQk15EsvnThGDveklE3oKsL6srCGD-0eeddwRKS2RepuRIQdsA2v6OJK4WRFM5IXiGrRRoUMa4pKQCASoZ3AaSz7AOJAHsJR3w",
+types: [
+"hair_care",
+"establishment"
+],
+vicinity: "254 5th Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.743642,
+lng: -73.989159
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "1fdcdf3fe2208610b448ae8f958400b107292ba8",
+name: "Friendly New York",
+reference: "CnRvAAAA12T7cjjdOCGpwPy2V96lBk6u238JOVczpRN4z0DnNDRnRG5M7yusWB-xSWGzcY0lDNyXcocGnsN5gY0OpPTaE4SkYXO3jcBjdrOFGEXA7kyDrC3rt-run5YcS9KuUtbMd7zTCSTaZUzZJdSNv4Fy3BIQ-S4zPv1v6w3HBIl7w_vHexoUu2mZtaFLdf32aMtzWKvQrfzOEj8",
+types: [
+"real_estate_agency",
+"establishment"
+],
+vicinity: "1133 Broadway, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.749845,
+lng: -74.002807
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "a50c2c3050f3d254c02ed537ad957281940476f5",
+name: "The Friendly Group Ltd",
+opening_hours: {
+open_now: true
+},
+reference: "CoQBdQAAAD0lx0aBqskt_i2fkBmb2ukVKElCJzbQs7tqt3KRqEqIPpuQyOv99R-HM-FrArqbdi7CF7kV-fATKPNKOQdmXhwLQbbYVmz6QJ2TlaHJFK6LoNbv7u4EESkDoil5nZHdOv-u2Hk9eFbHP0FKAixQoXzeMsfmSQnqpwtFX-eb0IBGEhCYWGwBIDyg9BMiPBk6DfNIGhSKbhBqzVXnbK_KKRAQsWnuj-gmkg",
+types: [
+"insurance_agency",
+"establishment"
+],
+vicinity: "287 10th Avenue, New York"
+},
+{
+geometry: {
+location: {
+lat: 40.74672,
+lng: -73.996171
+}
+},
+icon: "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "e380e3e4757b6ac6ed791177ccb76eefb6497a73",
+name: "Paddles The Friendly S & M Club",
+reference: "CoQBfgAAAN7SzwC9DZHEOdYIu7-0UdnE-JuFO1s3zTvJEdSHfecyuhdLzHIiPzAIW_uU_CTTlDnXD4x9REosQat2NH5-VwVAMV6DGikvOAOQuuO9hxbvVopD-tynX0yJloivrWRYkwc3tyMAxj6_-g0sK4JfbIL8R6uC6Uw3CTGlzdE1GFt5EhD9J3xMBy12zo5NKmFcIrhmGhRL9SSIHm6EUONTfW6391D6LqZs7A",
+types: [
+"establishment"
+],
+vicinity: "250 West 26th Street, New York"
+}
+],
+status: "OK"
+}

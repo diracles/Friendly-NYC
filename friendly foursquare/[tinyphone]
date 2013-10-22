@@ -1,0 +1,5 @@
+[tinyphone]
+exten => s,1,Set(message=Hello tinyphone!)
+;the value of variable "message" will get sent to the tinyphone clients.
+exten => s,n,AGI(/root/node_workspace/tinyphone/tinyphone_eagi/tinyphone_eagi_client.rb,${message})
+exten => s,n,Hangup()
