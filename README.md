@@ -10,6 +10,6 @@ friendly, amiable, loyal, sensitive, etc.
 
 I then converted the json result to csv and plotted the locations to a google geo map using google fusion charts. The sample data set I built from the queries amounts to a tiny fraction of the venues in NYC but it does represent a true random sample.
 
-The final answer turned out to be:  the West Village!
+The final answer turned out to be ---> the West Village!
 
 
